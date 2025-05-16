@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RiddleGame",
+            "request": "launch",
+            "mainClass": "git.RiddleGame",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "statics",
             "request": "launch",
             "mainClass": "practise.statics",

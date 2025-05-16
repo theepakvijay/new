@@ -16,5 +16,6 @@ public class EXCEPTION {
         finally{
             System.out.print("Final");
         }
+        System.out.print("End");
     }
 }

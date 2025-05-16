@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "statics",
+            "request": "launch",
+            "mainClass": "practise.statics",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "ATMsimulation",
+            "request": "launch",
+            "mainClass": "TCS.ATMsimulation",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "threadingclass",
+            "request": "launch",
+            "mainClass": "practise.threadingclass",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "horse",
+            "request": "launch",
+            "mainClass": "horse",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Abst",
+            "request": "launch",
+            "mainClass": "Abst",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
